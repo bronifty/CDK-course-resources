@@ -12,6 +12,7 @@
   "description": "",
   "devDependencies": {
     "@bronifty/fs-utils": "^0.0.13",
+    "@types/aws-lambda": "^8.10.142",
     "@types/node": "^22.1.0",
     "aws-cdk": "^2.151.0",
     "aws-cdk-lib": "^2.151.0",

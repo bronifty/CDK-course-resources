@@ -9,7 +9,8 @@
     "rootDir": "./src",
     "typeRoots": [
       "./node_modules/@bronifty/fs-utils/dist/types",
-      "./node_modules/@types/node"
+      "./node_modules/@types/node",
+      "./node_modules/@types/aws-lambda"
     ]
   },
   "include": ["src/**/*"],
